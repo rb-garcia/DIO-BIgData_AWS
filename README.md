@@ -3,6 +3,8 @@ Explorando Dados Demográficos com Serviços de Big Data na AWS
 
 Professor/Autor: Cassiano Peres - Instrutor, DIO
 
+Repositório original: https://github.com/cassianobrexbit/dio-live-athena
+
 # dio-live-athena
 Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 
