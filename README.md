@@ -1,5 +1,6 @@
 # DIO-BigData_AWS
 Explorando Dados Demográficos com Serviços de Big Data na AWS
+
 Professor: Cassiano Peres - Instrutor, DIO
 
 # dio-live-athena
